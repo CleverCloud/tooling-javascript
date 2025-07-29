@@ -1,0 +1,16 @@
+{
+  "name": "tooling-javascript",
+  "description": "This repository is a **monorepo** containing multiple JavaScript configuration packages used across Clever Cloud projects. It provides standardized tooling configurations to ensure consistency and best practices.",
+  "scripts": {
+    "changesets": "node node_modules/@changesets/cli",
+    "release": "node node_modules/@changesets/cli publish"
+  },
+  "license": "Apache-2.0",
+  "workspaces": [
+    "eslint/config"
+  ],
+  "type": "module",
+  "devDependencies": {
+    "@changesets/cli": "^2.29.5"
+  }
+}
