@@ -1,7 +1,7 @@
 {
   "name": "@clevercloud/eslint-config",
   "description": "Clever Cloud ESLint configuration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "eslint.config.js",
   "type": "module",
   "files": [
