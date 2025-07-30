@@ -1,5 +1,11 @@
 # @clevercloud/eslint-config
 
+## 1.0.1
+
+### Patch Changes
+
+- f50b637: Remove unnecessary import to globals in the config.
+
 ## 1.0.0
 
 ### Major Changes
