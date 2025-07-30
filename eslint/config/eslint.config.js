@@ -1,6 +1,5 @@
 import js from "@eslint/js";
 import { importX } from "eslint-plugin-import-x";
-import globals from "globals";
 import nodePlugin from "eslint-plugin-n";
 
 const commonPlugins = {
