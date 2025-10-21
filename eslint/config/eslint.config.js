@@ -20,6 +20,7 @@ const commonRules = {
       argsIgnorePattern: "^_",
       varsIgnorePattern: "^_",
       ignoreRestSiblings: true,
+      caughtErrorsIgnorePattern: '^_'
     },
   ],
   // import plugin
