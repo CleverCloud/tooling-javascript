@@ -33,7 +33,7 @@ const commonRules = {
     {
       devDependencies: false,
       optionalDependencies: false,
-      peerDependencies: false,
+      peerDependencies: true,
     },
   ],
 };
