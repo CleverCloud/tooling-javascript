@@ -1,5 +1,11 @@
 # @clevercloud/eslint-config
 
+## 1.1.0
+
+### Minor Changes
+
+- df81b66: Allow peer dependencies imports
+
 ## 1.0.1
 
 ### Patch Changes
