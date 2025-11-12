@@ -1,6 +1,10 @@
 {
   "name": "@clevercloud/eslint-config",
   "description": "Clever Cloud ESLint configuration",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CleverCloud/tooling-javascript"
+  },
   "version": "1.0.1",
   "main": "eslint.config.js",
   "type": "module",
